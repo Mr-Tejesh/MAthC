@@ -1,0 +1,2 @@
+This repo contains matrices formulae</br>
+Pls check the comments in code before use
