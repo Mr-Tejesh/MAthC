@@ -1,2 +1,2 @@
-This repo contains matrices formulae<\br>
+This repo contains matrices formulae
 Pls check the comments in code before use
